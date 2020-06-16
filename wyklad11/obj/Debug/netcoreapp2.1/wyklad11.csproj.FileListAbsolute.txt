@@ -1,0 +1,14 @@
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\bin\Debug\netcoreapp2.1\wyklad11.deps.json
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\bin\Debug\netcoreapp2.1\wyklad11.runtimeconfig.json
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\bin\Debug\netcoreapp2.1\wyklad11.runtimeconfig.dev.json
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\bin\Debug\netcoreapp2.1\wyklad11.dll
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.csprojAssemblyReference.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.csproj.CoreCompileInputs.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.RazorAssemblyInfo.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.RazorAssemblyInfo.cs
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.AssemblyInfoInputs.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.AssemblyInfo.cs
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.RazorTargetAssemblyInfo.cache
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\bin\Debug\netcoreapp2.1\wyklad11.pdb
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.dll
+C:\Users\kbernatjanuszkiewicz\source\repos\wyklad11\wyklad11\obj\Debug\netcoreapp2.1\wyklad11.pdb

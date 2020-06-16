@@ -1,0 +1,5 @@
+1. add-migration AddedPersonsTable
+2. script-migration // podejrzenie wygenerowanego kodu SQL, jeszcze bez pusha na bazę
+3. update-database
+
+remove-migration // usunięcie ostatniej wygenerowanej migracji
